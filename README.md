@@ -1,5 +1,5 @@
 # interview-Qs
 
-Feel free to clone down this repo and try your hand at these interview questions.
+Each directory is a collection of interview questions that NSS grads have encountered.
 
-Have a question you want to add? Open up a Pull Request and let's add it to the collection!
+Have a question you want to add? Open up a Pull Request and let's add it to the collection! Please format questions as a README.md file.

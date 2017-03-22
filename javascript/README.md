@@ -1,0 +1,5 @@
+# JavaScript Interview questions
+
+This directory is a collection of JavaScript specific questions.
+
+Try to write as much "sudo code" out as you can before running the code.

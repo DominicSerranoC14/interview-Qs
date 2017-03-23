@@ -1,4 +1,6 @@
-#### JavaScript questions
+## JavaScript Questions
+
+
 
 1. Explain event delegation and how this works in JavaScript.
 

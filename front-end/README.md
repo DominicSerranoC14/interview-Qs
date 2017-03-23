@@ -13,6 +13,7 @@
 
 1. How would you optimize a website's assets/resources?
 What are the exceptions?
+
 1. Name 3 ways to decrease page load (perceived or actual load time).
 
 1. Describe how you would create a simple slideshow page.

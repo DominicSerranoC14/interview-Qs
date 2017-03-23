@@ -14,9 +14,7 @@ Have a question that should be added? Open up a Pull Request and let's add it to
 1. Submit questions as markdown files and make sure the subject / language of the question is clearly stated.
 
 
-#### User curated
-
-[](Stuff to add: System stuff, good questions to ask)
+[](Stuff to add: System stuff, good questions to ask for interviewees, SQL)
 
 
 #### Table of Contents

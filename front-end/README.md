@@ -29,3 +29,5 @@ What tools do you use to test your code's performance?
 1. Explain some of the pros and cons for CSS animations versus JavaScript animations.
 
 1. Your team deploys some changes to a production site and everything is fine.  The next day you notice the site is down.  What do you do?
+
+1. Describe a recent front-end project you have been working on. What were some challenges you encountered? What did you enjoy?
